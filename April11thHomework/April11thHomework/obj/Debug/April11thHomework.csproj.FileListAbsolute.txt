@@ -1,0 +1,9 @@
+c:\users\daking\documents\visual studio 2015\Projects\April11thHomework\April11thHomework\bin\Debug\April11thHomework.exe.config
+c:\users\daking\documents\visual studio 2015\Projects\April11thHomework\April11thHomework\bin\Debug\April11thHomework.exe
+c:\users\daking\documents\visual studio 2015\Projects\April11thHomework\April11thHomework\bin\Debug\April11thHomework.pdb
+c:\users\daking\documents\visual studio 2015\Projects\April11thHomework\April11thHomework\obj\Debug\April11thHomework.csprojResolveAssemblyReference.cache
+c:\users\daking\documents\visual studio 2015\Projects\April11thHomework\April11thHomework\obj\Debug\April11thHomework.Form1.resources
+c:\users\daking\documents\visual studio 2015\Projects\April11thHomework\April11thHomework\obj\Debug\April11thHomework.Properties.Resources.resources
+c:\users\daking\documents\visual studio 2015\Projects\April11thHomework\April11thHomework\obj\Debug\April11thHomework.csproj.GenerateResource.Cache
+c:\users\daking\documents\visual studio 2015\Projects\April11thHomework\April11thHomework\obj\Debug\April11thHomework.exe
+c:\users\daking\documents\visual studio 2015\Projects\April11thHomework\April11thHomework\obj\Debug\April11thHomework.pdb

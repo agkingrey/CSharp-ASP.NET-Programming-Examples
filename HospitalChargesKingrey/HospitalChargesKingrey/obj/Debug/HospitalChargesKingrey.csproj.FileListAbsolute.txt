@@ -1,0 +1,9 @@
+c:\users\daking\documents\visual studio 2015\Projects\HospitalChargesKingrey\HospitalChargesKingrey\bin\Debug\HospitalChargesKingrey.exe.config
+c:\users\daking\documents\visual studio 2015\Projects\HospitalChargesKingrey\HospitalChargesKingrey\bin\Debug\HospitalChargesKingrey.exe
+c:\users\daking\documents\visual studio 2015\Projects\HospitalChargesKingrey\HospitalChargesKingrey\bin\Debug\HospitalChargesKingrey.pdb
+c:\users\daking\documents\visual studio 2015\Projects\HospitalChargesKingrey\HospitalChargesKingrey\obj\Debug\HospitalChargesKingrey.csprojResolveAssemblyReference.cache
+c:\users\daking\documents\visual studio 2015\Projects\HospitalChargesKingrey\HospitalChargesKingrey\obj\Debug\HospitalChargesKingrey.HospitalCharges.resources
+c:\users\daking\documents\visual studio 2015\Projects\HospitalChargesKingrey\HospitalChargesKingrey\obj\Debug\HospitalChargesKingrey.Properties.Resources.resources
+c:\users\daking\documents\visual studio 2015\Projects\HospitalChargesKingrey\HospitalChargesKingrey\obj\Debug\HospitalChargesKingrey.csproj.GenerateResource.Cache
+c:\users\daking\documents\visual studio 2015\Projects\HospitalChargesKingrey\HospitalChargesKingrey\obj\Debug\HospitalChargesKingrey.exe
+c:\users\daking\documents\visual studio 2015\Projects\HospitalChargesKingrey\HospitalChargesKingrey\obj\Debug\HospitalChargesKingrey.pdb

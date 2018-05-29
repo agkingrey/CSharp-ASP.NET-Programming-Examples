@@ -1,0 +1,9 @@
+c:\users\daking\documents\visual studio 2015\Projects\TicTacToeSimulatorKingrey\TicTacToeSimulatorKingrey\bin\Debug\TicTacToeSimulatorKingrey.exe.config
+c:\users\daking\documents\visual studio 2015\Projects\TicTacToeSimulatorKingrey\TicTacToeSimulatorKingrey\bin\Debug\TicTacToeSimulatorKingrey.exe
+c:\users\daking\documents\visual studio 2015\Projects\TicTacToeSimulatorKingrey\TicTacToeSimulatorKingrey\bin\Debug\TicTacToeSimulatorKingrey.pdb
+c:\users\daking\documents\visual studio 2015\Projects\TicTacToeSimulatorKingrey\TicTacToeSimulatorKingrey\obj\Debug\TicTacToeSimulatorKingrey.csprojResolveAssemblyReference.cache
+c:\users\daking\documents\visual studio 2015\Projects\TicTacToeSimulatorKingrey\TicTacToeSimulatorKingrey\obj\Debug\TicTacToeSimulatorKingrey.Form1.resources
+c:\users\daking\documents\visual studio 2015\Projects\TicTacToeSimulatorKingrey\TicTacToeSimulatorKingrey\obj\Debug\TicTacToeSimulatorKingrey.Properties.Resources.resources
+c:\users\daking\documents\visual studio 2015\Projects\TicTacToeSimulatorKingrey\TicTacToeSimulatorKingrey\obj\Debug\TicTacToeSimulatorKingrey.csproj.GenerateResource.Cache
+c:\users\daking\documents\visual studio 2015\Projects\TicTacToeSimulatorKingrey\TicTacToeSimulatorKingrey\obj\Debug\TicTacToeSimulatorKingrey.exe
+c:\users\daking\documents\visual studio 2015\Projects\TicTacToeSimulatorKingrey\TicTacToeSimulatorKingrey\obj\Debug\TicTacToeSimulatorKingrey.pdb

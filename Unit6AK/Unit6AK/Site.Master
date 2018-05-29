@@ -1,0 +1,23 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Unit6AK.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Master Page</title>
+    <link href="App_Themes/Fall/Fall.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <h1>Royal Inns and Suites</h1>
+        <h2>Where you're always treated like royalty.</h2>
+    </header>
+    <section>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </section>
+    <footer>
+        <h4>©2014, Royal Inn's and Suites</h4>
+    </footer>
+</body>
+</html>

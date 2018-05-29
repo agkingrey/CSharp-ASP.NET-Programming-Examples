@@ -1,0 +1,9 @@
+c:\users\daking\documents\visual studio 2015\Projects\VendingMachineKingrey\VendingMachineKingrey\bin\Debug\VendingMachineKingrey.exe.config
+c:\users\daking\documents\visual studio 2015\Projects\VendingMachineKingrey\VendingMachineKingrey\bin\Debug\VendingMachineKingrey.exe
+c:\users\daking\documents\visual studio 2015\Projects\VendingMachineKingrey\VendingMachineKingrey\bin\Debug\VendingMachineKingrey.pdb
+c:\users\daking\documents\visual studio 2015\Projects\VendingMachineKingrey\VendingMachineKingrey\obj\Debug\VendingMachineKingrey.csprojResolveAssemblyReference.cache
+c:\users\daking\documents\visual studio 2015\Projects\VendingMachineKingrey\VendingMachineKingrey\obj\Debug\VendingMachineKingrey.vendingMachineForm.resources
+c:\users\daking\documents\visual studio 2015\Projects\VendingMachineKingrey\VendingMachineKingrey\obj\Debug\VendingMachineKingrey.Properties.Resources.resources
+c:\users\daking\documents\visual studio 2015\Projects\VendingMachineKingrey\VendingMachineKingrey\obj\Debug\VendingMachineKingrey.csproj.GenerateResource.Cache
+c:\users\daking\documents\visual studio 2015\Projects\VendingMachineKingrey\VendingMachineKingrey\obj\Debug\VendingMachineKingrey.exe
+c:\users\daking\documents\visual studio 2015\Projects\VendingMachineKingrey\VendingMachineKingrey\obj\Debug\VendingMachineKingrey.pdb

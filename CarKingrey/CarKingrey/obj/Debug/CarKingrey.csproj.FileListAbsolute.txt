@@ -1,0 +1,9 @@
+c:\users\daking\documents\visual studio 2015\Projects\CarKingrey\CarKingrey\bin\Debug\CarKingrey.exe.config
+c:\users\daking\documents\visual studio 2015\Projects\CarKingrey\CarKingrey\bin\Debug\CarKingrey.exe
+c:\users\daking\documents\visual studio 2015\Projects\CarKingrey\CarKingrey\bin\Debug\CarKingrey.pdb
+c:\users\daking\documents\visual studio 2015\Projects\CarKingrey\CarKingrey\obj\Debug\CarKingrey.csprojResolveAssemblyReference.cache
+c:\users\daking\documents\visual studio 2015\Projects\CarKingrey\CarKingrey\obj\Debug\CarKingrey.Form1.resources
+c:\users\daking\documents\visual studio 2015\Projects\CarKingrey\CarKingrey\obj\Debug\CarKingrey.Properties.Resources.resources
+c:\users\daking\documents\visual studio 2015\Projects\CarKingrey\CarKingrey\obj\Debug\CarKingrey.csproj.GenerateResource.Cache
+c:\users\daking\documents\visual studio 2015\Projects\CarKingrey\CarKingrey\obj\Debug\CarKingrey.exe
+c:\users\daking\documents\visual studio 2015\Projects\CarKingrey\CarKingrey\obj\Debug\CarKingrey.pdb

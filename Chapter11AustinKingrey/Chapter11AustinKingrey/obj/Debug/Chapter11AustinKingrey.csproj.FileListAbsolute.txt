@@ -1,0 +1,11 @@
+c:\users\daking\documents\visual studio 2015\Projects\Chapter11AustinKingrey\Chapter11AustinKingrey\bin\Debug\Chapter11AustinKingrey.exe.config
+c:\users\daking\documents\visual studio 2015\Projects\Chapter11AustinKingrey\Chapter11AustinKingrey\bin\Debug\Personnel.mdf
+c:\users\daking\documents\visual studio 2015\Projects\Chapter11AustinKingrey\Chapter11AustinKingrey\bin\Debug\Personnel_log.ldf
+c:\users\daking\documents\visual studio 2015\Projects\Chapter11AustinKingrey\Chapter11AustinKingrey\bin\Debug\Chapter11AustinKingrey.exe
+c:\users\daking\documents\visual studio 2015\Projects\Chapter11AustinKingrey\Chapter11AustinKingrey\bin\Debug\Chapter11AustinKingrey.pdb
+c:\users\daking\documents\visual studio 2015\Projects\Chapter11AustinKingrey\Chapter11AustinKingrey\obj\Debug\Chapter11AustinKingrey.csprojResolveAssemblyReference.cache
+c:\users\daking\documents\visual studio 2015\Projects\Chapter11AustinKingrey\Chapter11AustinKingrey\obj\Debug\Chapter11AustinKingrey.EmployeeApplication.resources
+c:\users\daking\documents\visual studio 2015\Projects\Chapter11AustinKingrey\Chapter11AustinKingrey\obj\Debug\Chapter11AustinKingrey.Properties.Resources.resources
+c:\users\daking\documents\visual studio 2015\Projects\Chapter11AustinKingrey\Chapter11AustinKingrey\obj\Debug\Chapter11AustinKingrey.csproj.GenerateResource.Cache
+c:\users\daking\documents\visual studio 2015\Projects\Chapter11AustinKingrey\Chapter11AustinKingrey\obj\Debug\Chapter11AustinKingrey.exe
+c:\users\daking\documents\visual studio 2015\Projects\Chapter11AustinKingrey\Chapter11AustinKingrey\obj\Debug\Chapter11AustinKingrey.pdb

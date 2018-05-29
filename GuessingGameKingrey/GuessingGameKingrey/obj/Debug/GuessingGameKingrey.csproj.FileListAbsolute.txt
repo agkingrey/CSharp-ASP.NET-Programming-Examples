@@ -1,0 +1,1 @@
+c:\users\daking\documents\visual studio 2015\Projects\GuessingGameKingrey\GuessingGameKingrey\bin\Debug\GuessingGameKingrey.exe.config
